@@ -18,5 +18,8 @@
 ┣ RNN_jeopardy.ipynb … 質問文の分類モデル（RNN）の作成プログラム  
 ┗ answer_mashine.ipynb … 本アプリのメインプログラム  
 
+#About Model(Learning Model)
+![model_answer](https://user-images.githubusercontent.com/39453720/49334955-179aa100-f626-11e8-8290-33d02dea4200.png)
+
 # Capture
 ![answer_mashine](https://user-images.githubusercontent.com/39453720/48308809-3a014780-e5af-11e8-902f-7d8238646968.png)
